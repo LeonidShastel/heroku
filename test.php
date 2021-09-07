@@ -1,5 +1,5 @@
 <?php
 
-$name = $_GET['NAME'];
+$name = $_POST['NAME'];
 
 echo 'hello '.$name;
